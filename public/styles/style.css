@@ -1,0 +1,49 @@
+
+body{
+    background-color:black;
+}
+
+h2{
+    letter-spacing: .3em;
+    color:whitesmoke;
+}
+
+.search-bar{
+    margin:20px;
+    text-align: center;
+}
+
+.search-bar input {
+    width:100%;
+    padding:8px;
+    margin:8px;
+}
+
+.video-item img{
+    max-width:64px;
+}
+
+.video-detail .details {
+    margin: 18px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    color:white;
+}
+
+.list-group-item{
+    cursor: pointer;
+    border:1px solid white;
+    background-color:black!important;
+    color:#ccc;
+}
+
+.list-group-item:hover{
+    background-color: #eee!important;
+    color:black;
+}
+
+
+.media-heading{
+    margin-top:2px;
+}
