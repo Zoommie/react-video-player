@@ -3,6 +3,9 @@
 
 <img src="/public/images/screenshot.png">
 
+### DEMO:
+https://react-video-player.now.sh/
+
 ### BUILD:
 React
 
