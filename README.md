@@ -4,7 +4,7 @@
 <img src="/public/images/screenshot.png">
 
 ### DEMO:
-https://react-video-player.now.sh/
+http://zungdinh.com/video-player/
 
 ### BUILD:
 React
